@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/catering-deploy/static/css/main.e2f84abf.css",
+    "main.js": "/catering-deploy/static/js/main.9dbc6d24.js",
+    "static/media/bg.mp4": "/catering-deploy/static/media/bg.f0cc57fd0da021e72cd0.mp4",
+    "static/media/hero.jpg": "/catering-deploy/static/media/hero.a4fea4cf3a3313b736e5.jpg",
+    "static/media/john-doe.png": "/catering-deploy/static/media/john-doe.ef346d22b7a418615c79.png",
+    "static/media/paket3.jpg": "/catering-deploy/static/media/paket3.312bbba21d1f1ec0d321.jpg",
+    "static/media/paket2.jpg": "/catering-deploy/static/media/paket2.54ca914606a995f2788d.jpg",
+    "static/media/paket1.jpg": "/catering-deploy/static/media/paket1.d42550886af6ae4e3d3e.jpg",
+    "static/media/user1.jpg": "/catering-deploy/static/media/user1.0445aa4d2fdbbdee619c.jpg",
+    "static/media/user2.jpg": "/catering-deploy/static/media/user2.df36f8c1c75e4cfd9141.jpg",
+    "static/media/user3.jpg": "/catering-deploy/static/media/user3.b072ebec41da52205c60.jpg",
+    "static/media/logo.png": "/catering-deploy/static/media/logo.9ed957f30a389421b282.png",
+    "index.html": "/catering-deploy/index.html",
+    "static/media/eye.svg": "/catering-deploy/static/media/eye.d3a02b6153b96362e86e8f97a86e2dc1.svg",
+    "static/media/empty-star.svg": "/catering-deploy/static/media/empty-star.f1e23885f3c1b7da4ea693899b67ef30.svg",
+    "static/media/love.svg": "/catering-deploy/static/media/love.56c517aada44400fab416599e7f038f3.svg",
+    "static/media/half-star.svg": "/catering-deploy/static/media/half-star.2a96219b41dd0ad45086ff2c6f425035.svg",
+    "static/media/star.svg": "/catering-deploy/static/media/star.ece1266e5e6e7dec4a49287d56086fdb.svg",
+    "main.e2f84abf.css.map": "/catering-deploy/static/css/main.e2f84abf.css.map",
+    "main.9dbc6d24.js.map": "/catering-deploy/static/js/main.9dbc6d24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2f84abf.css",
+    "static/js/main.9dbc6d24.js"
+  ]
+}
